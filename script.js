@@ -1,5 +1,5 @@
 const container = document.getElementById("container");
-const text = "ariesta";
+const text = "Bocill";
 const numTexts = 100;
 const centerX = 300;
 const centerY = 300;
